@@ -1,0 +1,381 @@
+CSV text has been written to file : Hello.csv
+
+Library Component Count : 374
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+1N4148WS            Standard diode, 75V 150mA
+1PS79SB31           Schottky diode, 30V 200mA
+20-pin_JTAG/SW      20-pin JTAG connector
+2450BM14E0003       2.45 GHz Impedance Matched Balun-Filter
+5016                Single-pad test point
+74HCT2G04           Dual inverter The 74HC2G04; 74HCT2G04 is a high-speed Si-gate CMOS device.
+760-308-111         Wuerth inductor
+856561              TriQuint 1575.42 Mhz Saw Filter
+AB-RTCMC-32.768kHz-AIGZ-S7Abracon I2C RTC w/ integrated XO
+ABM2                Abracon ABM2 12MHz XO 8.0x4.5x1.4mm
+ABS06               Abracon ABS06 32.768kHz XO 2.0x1.2x0.6mm
+AD5110BCPZ80-500R7  80kOhm Digital potentiometer, 128 taps
+ADA4505-2           Analog Devices Dual Op-Amp
+ADS1118             SPI enabled Quad input ADC
+ADS1256             24 bit ADC with SPI and Quad differential inputs
+ADS1282             31-bit ADC with SPI and 2 differential inputs
+AM2520ZGC09         Kingbright Green LED
+AO3416              N-channel enhancement mode FET
+APT2012QBC-D        Kingbright Blue SMT LED
+APT2012SECK         Kingbright Orange SMT LED
+APT2012SGC          Kingbright Green SMT LED
+APT2012SRCPRV       Kingbright Red SMT LED
+APTL3216ZGC         Kingbright Green SMT LED
+ASDMB-12.000MHZ-LC-TASDMB 12MHz Crystal Oscillator
+AT45DB011D          1Mbit Flash memory, SPI interface 66MHz
+AT93C46E            Atmel 1KBIT 2MHZ 8SOIC I2C EEPROM
+Antenna_IFA_pads    PCB pads for external IFA
+Antenna_meander_2.4GHzMeander antenna printed on PCB
+Antenna_meander_2.4GHz_middleMeander antenna printed on PCB
+BAL-ST-5pin_DC-Flip 50 ohm balun transformer for 2.45GHz ISM
+BAT54SW             Double shottky diode
+BH1603FVC           Ambient light sensor IC
+BPW34               Photodetector
+BQ27421YZFT-G1A     TI Fuel Gauge With Integrated Sense Resistor
+BQ500212A           Wireless power controller for WPC TX A5 or A11
+BQ51050BYFPR        TI Qi Inductive Charging Receiver with Battery Charging
+BSS138              N-channel enhancement mode FET
+C0827B005F          JinLong Machinery C0827B005F Vibration Motor
+CC3200              TI Wi-FI module
+CLVBA-FKA-CAEDH8BBB7A363RGB LED 5mA 0604
+CPH3448-TL-H        N-channel enhancement mode Power FET
+CRS04               Schottky Diode
+CSD97376Q4M         Synchronous Buck NexFET Power Stage
+C_0.047u_10_16_X7R_0402Chip capacitor
+C_0.047u_10_50_X7R_0402Chip capacitor
+C_0.068u_10_50_X7R_0402Chip capacitor
+C_0.1u_10_100_X7R_1206Chip capacitor
+C_0.1u_10_10_X5R_0201Chip capacitor
+C_0.1u_10_50_NP0_1210Chip capacitor
+C_0.1u_10_50_X7R_0402Chip capacitor
+C_0.1u_10_50_X7R_0805Chip capacitor
+C_0.1u_10_6.3_X5R_0201Chip capacitor
+C_0.1u_20_16_X7R_0603Chip capacitor
+C_0.1u_5_50_C0G_1206Chip capacitor
+C_0.22u_10_10_X7R_0402Chip capacitor
+C_0.47u_10_10_X5R_0402Chip capacitor
+C_0.47u_10_25_X5R_0402Chip capacitor
+C_10000p_10_100_X7R_0805Chip capacitor
+C_10000p_10_10_X7R_0201Chip capacitor
+C_10000p_10_50_X7R_0402Chip capacitor
+C_10000p_10_50_X7R_0603Chip capacitor
+C_10000p_10_6.3_X7R_0201Chip capacitor
+C_10000p_10_6.3_X7R_0402Chip capacitor
+C_10000p_1_25_NP0_0603Chip capacitor
+C_1000p_10_10_X7R_0805Chip capacitor
+C_1000p_10_25_X7R_0201Chip capacitor
+C_1000p_10_50_X7R_0402Chip capacitor
+C_1000p_10_6.3_X5R_0402Chip capacitor
+C_100p_5_50_C0G_0402Chip capacitor
+C_100u_10_16_6032_TantChip capacitor
+C_100u_20_10_X5R_1206Chip capacitor
+C_100u_20_6.3_X5R_1206Chip capacitor
+C_10p_1_50_C0G_0201 Chip capacitor
+C_10p_1_50_C0G_0402 Chip capacitor
+C_10u_10_10_X5R_0805Chip capacitor
+C_10u_10_10_X5R_1210Chip capacitor
+C_10u_10_25_JB_0805 Chip capacitor
+C_10u_10_6.3_X5R_0603Chip capacitor
+C_10u_20_10_X5R_1206Chip capacitor
+C_10u_20_20_3528_TantChip capacitor
+C_10u_20_25_JB_0603 Chip capacitor
+C_10u_20_6.3_X5R_1206Chip capacitor
+C_12p_5_25_C0G_0201 Chip capacitor
+C_12p_5_50_NP0_0402 Chip capacitor
+C_15p_5_16_C0G_0402 Chip capacitor
+C_15p_5_25_C0G_0201 Chip capacitor
+C_1800p_10_50_X7R_0402Chip capacitor
+C_18p_2_25_C0G_0201 Chip capacitor
+C_1p_0.1_16_C0G_0402Chip capacitor
+C_1p_10_50_C0G_0402 Chip capacitor
+C_1u_10_16_X5R_0603 Chip capacitor
+C_1u_10_50_X5R_0603 Chip capacitor
+C_1u_10_6.3_X5R_0201Chip capacitor
+C_1u_10_6.3_X5R_0402Chip capacitor
+C_1u_10_6.3_X7R_0805Chip capacitor
+C_2.2p_0.05_50_C0G_0402Chip capacitor
+C_2.2u_10_10_X7R_0603Chip capacitor
+C_2.2u_10_16_X7R_1206Chip capacitor
+C_2.2u_10_20_3528_TantChip capacitor
+C_2.2u_20_4_X7S_0306Chip capacitor
+C_2200p_5_16_STD_0402Chip capacitor
+C_220p_5_50_NP0_0402Chip capacitor
+C_220u_20_10_3528_TantChip capacitor
+C_22n_10_25_X7R_0402Chip capacitor
+C_22n_10_50_X7R_0402Chip capacitor
+C_22p_5_50_C0G_0805 Chip capacitor
+C_22u_10_20_JB_0603 Chip capacitor
+C_22u_10_25_X5R_1210Chip capacitor
+C_27p_2_25_NP0_0201 Chip capacitor
+C_27p_5_50_C0G_0201 Chip capacitor
+C_3.3u_10_10_0603_TantChip capacitor
+C_3.3u_10_6.3_X7R_0805Chip capacitor
+C_33p_5_50_NP0_0603 Chip capacitor
+C_4.7u_10_10_0603_TantChip capacitor
+C_4.7u_10_10_JB_0402Chip capacitor
+C_4.7u_10_10_X5R_0805Chip capacitor
+C_4.7u_20_10_X5R_0603Chip capacitor
+C_4.7u_20_6.3_X5R_0603Chip capacitor
+C_4700p_10_50_X7R_0603Chip capacitor
+C_4700p_5_50_NP0_0603Chip capacitor
+C_47u_20_10_X5R_0805Chip capacitor
+C_6.8p_0.25_25_C0G_0201Chip capacitor
+C_9p_0.5_16_C0G_0402Chip capacitor
+Cap-SMT             Chip capacitor
+Cortex-debug_10pin  Cortex debug connector with JTAG interface
+Crystal_12M_30_30_12_20012 MHz crystal
+Crystal_12M_50_30_18_5012 MHz crystal
+Crystal_24M_50_30_18_4024 MHz crystal
+Crystal_32.768k_-_10_12.5_50k32.768kHz crystal
+Crystal_4.096M_30_30_18_1804.096 MHz crystal
+Crystal_40M_50_50_18_50Abracon 40 MHz crystal
+Crystal_48M_20_20_8_10048 MHz crystal
+Cuttable_trace_0.25mm0.25 mm cuttable trace for debugging purpose
+DAC7512             TI 12-bit serial DAC
+DEA202450BT-1294C1-HSAW filter for 2.4 GHz WLAN
+DIO_1SS404TPH3F     Schottky diode, 700 mA, 20 Vr
+DTC114EMT2L         NPN Digital transistor (built-in bias resistors)
+ELJ-QE12NGFA        Panasonic chip inductor 0603 +-2% Q61.9 @800MHz Resonant 4.9GHz
+EXB18V              Panasonic Resistor Network (4x 0201)
+Epson_FC-135 32.7680KA-AC3Epson 32kHz crystal, 9pF
+FB_1k_2_0.06_1810   Ferrite bead, 1kohm impedance
+FB_300_2_0.15_0603  Ferrite bead, 300 ohm impedance
+FB_600_1.5_100m     Chip Resistor
+FCI_USB_micro_B     board-cut USB connector
+FCI_USB_micro_B_10103592board-cut USB connector
+Fiducial-0.5        Fiducial with 0.5mm radius and 0.5mm paste expansion
+G3T22               DPDT Sealed switch
+GP2Y1010AU0F        Sharp dust sensor
+GRPB31VWTC-RC       Sullivan 3-pin 1.27mm pitch SMD header
+GSD4e               CSR GSD4e WLCSP 42-ball
+HDR1X2              Header, 2-pin
+HDR1X4              Header, 4-pin
+HDR2.00-2X3-SMD     BOB headers
+HTU21D              Meas-spec T/H sensor
+Hole                general purpose hole
+I587                ISLI I587 TCXO 16.384MHz
+ID_BLOCK            (DNP)
+IL3X                ILSI IL3X Crystal Oscillator 32.768 MHz
+ILCX19-FB5F18-16.000MHzILSI ILCX19 16 MHz Crystal Oscillator
+INA199A1RSW         Voltage output current shunt monitor
+INMP421             Omnidirectional digital microphone with PDM interface
+INMP441             Omnidirectional digital microphone with I2S interface
+JST_S6B-ZR-SM4A-TF (LF)(SN)(P)6-pin JST connector
+JTAG ZIF Socket     Molex 8-pin ribbon ZIF socket
+Johanson_2500AT44M0400EChip antenna 2.4 GHz
+Knowles_2403-260-00001Knowles SMD speaker
+LAYER_BLOCK         (DNP)
+LM3370SD-4221       TI PMIC with fixed 3.3 and 1.8 outputs
+LM3673TL-1.8        TI switcher 1.8V regulator
+LP5907MFX-3.3       TI LDO 3.3V regulator
+LSM330DLC           ST Micro LSM330DLC SPI Acceleromter / Gyroscope
+LTST-C19HE1WT       RGB LED Array
+L_10u_20_?_0.468_0.68_0.48SMD power inductor, 10uH
+L_15u_20_28_0.24_0.92_1.4SMD power inductor, 15uH
+L_1n_0.1_?_0.100_0.4_?SMD RF inductor 2.2nH
+L_1u_20_?_0.055_?_1.6SMD power inductor, 1uH
+L_1u_20_?_0.059_1.94_1.68SMD power inductor, 1uH
+L_1u_20_?_0.12_?_1.2SMD power inductor, 1uH
+L_2.2n_0.1_?_0.150_0.9_?SMD RF inductor 2.2nH
+L_2.2u_20_?_0.08_?_1.3SMD power inductor, 2.2uH
+L_2.2u_20_?_0.195_1.05_1.05SMD power inductor, 2.2uH
+L_2.2u_20_?_0.9_?_0.9SMD power inductor, 2.2uH
+L_22u_10_10_1_0.105_?SMD power inductor, 22uH
+M310210             Savvi M310210 Bluetooth Antenna
+M830110             Savvi M830110 GPS Antenna
+MAX4780             Maxim Quad 2:1 multiplexer
+MAX9934T/F          High-precision low-voltage curren-sense amplifier with current output and chip select for multiplexing
+MCP6001             Op Amp
+MCP6002T-E/MC       Microchip MCP6002T-E/MC 1MHz Dual Low Power OpAmp
+MHDR1X2             Header, 2-Pin
+MHDR1X3             Header, 3-Pin
+MHDR1X6             Header, 6-Pin
+MHDR2X10_SMD        Header, 20-Pin, Dual row SMD
+MHDR2X3             Header, 6-Pin, Dual row
+MHDR2X5_SMD         Header, 10-Pin, Dual row SMD
+MHDR2X6_SMD         Header, 12-Pin, Dual row SMD
+MIC_MP33AB01        ST analog microphone
+MIC_SPQ0410HR5H-B   Knowles analog microphone
+MIC_SPU0414HR5H-SB  Knowles analog microphone
+MINI51ZAN           Cortex M0 uC
+MK20DN512AB10R      Freescale M4F microprocessor
+MKL05Z8VFM4         Freescale M0 uC, 48-MHz, QFN-33
+MP33AB01H           MEMS audio SMD bottom port analog microphone
+MPU-6500            InvenSense MPU-6500 6-axis accelerometer and gyroscope
+MSS1P4              Schottcky Diode
+MX25U12835F         Macronix MX25U12835F SPI NOR Flash
+NAU8814YG           Nuvoton Audio Codec
+NSVBAT54WT1G        Single small signal schottky diode
+Net tie             Net tie
+Net tie_50mil       Net tie to bridge 50 mil spacing connector holes
+OPA314AIDBV         TI single 1.8-5.5V OPAMP
+OPA314AIDCKT        TI single 1.8-5.5V OPAMP
+Osc_160M_HCMOS,TTL_3.3_50_60m160MHz Oscillator
+P50-B1              P50-B1 Conical tipped pogo pin
+PE4259              RF Switch
+R5405               Ricoh Li-ion/Polymer Battery Protection
+REF5030IDGKT        3.0V voltage reference
+REF5045IDGKT        4.5V voltage reference
+RSX-10              Rakon RSX-10 16MHz XTAL
+R_0.02_1_0.5_0805   Chip Resistor
+R_0.1_0.1_2_3637    Chip Resistor
+R_0.5_0.5_1_2516    Chip Resistor
+R_0_jumper_0.05_0201Chip Resistor
+R_0_jumper_0.125_0805Chip Resistor
+R_0_jumper_0.1_0402 Chip Resistor
+R_0_jumper_0.25_0603Chip Resistor
+R_1.2k_0.5_0.063_0402Chip Resistor
+R_1.5k_1_0.1_0603   Chip Resistor
+R_1.5k_5_0.1_0402   Chip Resistor
+R_1.8M_5_0.125_0805 Chip Resistor
+R_100_1_0.1_0402    Chip Resistor
+R_100k_0.5_0.05_0201Chip Resistor
+R_100k_1_0.05_0201  Chip Resistor
+R_100k_1_0.1_0402   Chip Resistor
+R_100k_5_0.05_0201  Chip Resistor
+R_100k_5_0.125_0805 Chip Resistor
+R_10_0.5_0.5_2516   Chip Resistor
+R_10_1_0.1_0402     Chip Resistor
+R_10_5_0.125_0805   Chip Resistor
+R_10_5_1_2512       Chip Resistor
+R_10k_0.5_0.063_0402Chip Resistor
+R_10k_1_0.05_0201   Chip Resistor
+R_10k_1_0.1_0402    Chip Resistor
+R_10k_5_0.05_0201   Chip Resistor
+R_10k_5_0.125_0805  Chip Resistor
+R_10k_5_0.1_0402    Chip Resistor
+R_12.1k_1_0.1_0402  Chip Resistor
+R_12k_0.5_0.063_0402Chip Resistor
+R_150_1_0.1_0402    Chip Resistor
+R_150_5_0.125_0805  Chip Resistor
+R_180_0.5_0.063_0402Chip Resistor
+R_1M_5_0.125_0805   Chip Resistor
+R_1_0.5_1_2516      Chip Resistor
+R_1_5_0.1_0402      Chip Resistor
+R_1k_0.1_0.125_0805 Chip Resistor
+R_1k_1_0.1_0402     Chip Resistor
+R_1k_5_0.125_0805   Chip Resistor
+R_2.21k_1_0.1_0402  Chip Resistor
+R_2.2k_1_0.05_0201  Chip Resistor
+R_2.32k_0.5_0.063_0402Chip Resistor
+R_2.7k_1_0.1_0603   Chip Resistor
+R_2.7k_5_0.125_0805 Chip Resistor
+R_2.7k_5_0.1_0402   Chip Resistor
+R_20k_1_0.1_0402    Chip Resistor
+R_215k_1_0.1_0402   Chip Resistor
+R_220_1_0.05_0201   Chip Resistor
+R_22_5_0.125_0805   Chip Resistor
+R_240k_5_0.125_0805 Chip Resistor
+R_270_5_0.1_0402    Chip Resistor
+R_294k_1_0.0625_0402Chip Resistor
+R_2M_1_0.1_0603     Chip Resistor
+R_2_0.5_0.25_1610   Chip Resistor
+R_2k_0.1_0.125_0805 Chip Resistor
+R_2k_1_0.05_0201    Chip Resistor
+R_2k_5_0.5_0805     Chip Resistor
+R_3.6k_1_0.1_0402   Chip Resistor
+R_301k_1_0.125_0805 Chip Resistor
+R_30_0.1_0.1_0805   Chip Resistor
+R_324_1_0.125_0805  Chip Resistor
+R_33_5_0.1_0402     Chip Resistor
+R_3_5_0.05_0201     Chip Resistor
+R_3k_0.1_0.125_0805 Chip Resistor
+R_4.3k_5_0.1_0603   Chip Resistor
+R_42.2k_0.1_0.063_0402Chip Resistor
+R_475_1_0.05_0201   Chip Resistor
+R_475_1_0.1_0402    Chip Resistor
+R_47k_1_0.05_0201   Chip Resistor
+R_47k_1_0.2_0603    Chip Resistor
+R_48.7k_1_0.05_0201 Chip Resistor
+R_48.7k_1_0.1_0402  Chip Resistor
+R_487k_1_0.05_0201  Chip Resistor
+R_49.9k_1_0.05_0201 Chip Resistor
+R_5.1k_5_0.125_0805 Chip Resistor
+R_523k_1_0.05_0201  Chip Resistor
+R_523k_1_0.1_0402   Chip Resistor
+R_56.2k_1_0.05_0201 Chip Resistor
+R_56.2k_1_0.1_0402  Chip Resistor
+R_576k_1_0.125_0805 Chip Resistor
+R_5k_0.1_0.2_0805   Chip Resistor
+R_6.8k_5_0.1_0603   Chip Resistor
+R_680_1_0.1_0603    Chip Resistor
+R_68_5_0.1_0402     Chip Resistor
+R_76.8k_1_0.1_0402  Chip Resistor
+R_8.06k_1_0.05_0201 Chip Resistor
+R_86.6k_1_0.05_0201 Chip Resistor
+R_86.6k_1_0.1_0402  Chip Resistor
+Res-SMT             Chip Resistor
+S25FL208K0RMFI041   Spansion 8Mb Flash memory, SPI
+SC8252              SamHop Dual N-Chan Enhancement Mode MOSFET
+SFH4650             OSRAM IR LED
+SFH7050             BioMon sensor, 3 LEDs and one detectors
+SHT2x               
+SI4501DY-T1-E3      Complementary MOSFET
+SN74LVC1T45DCK      Single-bit dual-supply bus transceiver
+SPH0611LR5H         Knolwes Microphone
+SPU0414HR5H-SB      Knolwes Microphone
+SSM6N42FE           Toshiba Dual N-Channel MOSFET 1.5v drive 20V 800ma
+STM32F427BIT6       ST ARM-M4 uC
+STM32F427ZIT6       ST ARM-M4 uC
+Shorted_Header_1x2  Shorted 1x2 header
+Si1141              Proximity / UV / Ambient light sensor with I2C interface
+Si1145              Proximity / UV / Ambient light sensor with I2C interface
+Si1912EDH           Vishay Dual N-Channel MOSFET 1.8v drive 20V 1A
+Si8802DB            Vishay 8V N-channel MOSFET
+Solderbridge_open_1mmSolderbridge, open
+Solderbridge_open_2mmSolderbridge, open
+Solderbridge_short_1mmSolderbridge, shorted
+Solderbridge_short_2mmSolderbridge, shorted
+TB62752BFUG         Toshiba LED Driver
+TL3700AF160QG       SPST-NO tactile pushbutton 160gf
+TLC5940RHB          16 channels LED driver 120mA
+TLV1117LV-33        TI LDO 3.3v 800ma IC Regulator 4.7-15v
+TLV70033DSE         LDO Regulator
+TP                  testpoint
+TP-0.8              testpoint
+TPS61160            TI LED Driver
+TPS61220DCKT        TI Boost Converter
+TPS62120DCN         15V, 75 mA DC/DC buck converter
+TPS62125            Bukc-Boost DC/DC converter 2A output
+TPS63061DSC         Bukc-Boost DC/DC converter 2A output
+TPS79718DCK         LDO 1.8V SC70-5
+TP_0.875x0.5mm      Single-pad test point, 0.875x0.5mm
+TP_1.6mm            testpoint
+TS332IDT            Analog Devices Comparator
+TSL12PFN            AMS TSL12PFN 400-700nm Optical Sensor with integrated TIA
+TSL45313-CLCT       Digital ambient light sensor
+TSL45317-CLCT       Digital ambient light sensor
+TVS_824022          Wuerth dual TVS diode
+TXS0108ERGYR        8-BIT BIDIRECTIONAL VOLTAGE-LEVEL TRANSLATOR  FOR OPEN-DRAIN AND PUSH-PULL APPLICATIONS
+TestPoint           Generic Test Point
+TestPoint_hook_blackHook Test Point
+TestPoint_turret_2.4Turret Test Point
+U.FL-R-SMT-1        U.FL type antenna connector
+USB3315             Hi-speed USB transceiver with ULPI interface
+USB4604             4-port USB 2.0 hub controller
+USB_micro_B         board-cut USB connector
+VCNL3020-GS08       Proximity and ambient light sensor with IR emitter and I2C interface
+VCNL4010            Proximity and ambient light sensor with IR emitter and I2C interface plus interrupt
+WS2812S             WS2812S Intelligent control LED integrated light source
+Wuerth-744232090    Common mode line filter
+Wuerth-824001       ESD protection IC for 2 I/O channels and VDD
+Wuerth-824011       ESD protection IC for 2 I/O channels and VDD
+XCL208              Torex micro DC-DC Converter
+ZHCS400             Schottky Diode
+molex_105164-001    Molex right-angle reverse flangeless USB Mini-B OTG receptacle
+molex_47309-8651    Molex SD card connector
+molex_47420-0001    Molex 4-pin spring connector 1.8 mm working height
+molex_49597-2007    Molex 20-pin 1.25mm pitch connector
+molex_51281-2694    Molex 26-pin 0.5mm pitch connector
+molex_51387-0530    Molex right-angle USB Mini-B OTG receptacle with board guide
+molex_52885-0374    Molex 30-pin 0.635mm pitch receptacle connector
+molex_53647-0374    Molex 30-pin 0.635mm pitch plug connector
+nRF51422_QF         Multi-protocol Bluetooth Low Energy, ANT and 2.4GHz proprietary system-on-chip
+nRF51822_QF         Multi-protocol Bluetooth Low Energy and 2.4GHz proprietary system-on-chip
